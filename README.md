@@ -5,35 +5,38 @@
 
 <div align="center">
 
-<!-- ─────── HERO BANNER (SVG مدمج — لا يعتمد على خدمة خارجية) ─────── -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0A1628"/>
-      <stop offset="50%" stop-color="#1B2A47"/>
-      <stop offset="100%" stop-color="#0A1628"/>
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E8DFC8"/>
-      <stop offset="100%" stop-color="#FFFFFF"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="200" fill="url(#bgGrad)"/>
-  <text x="600" y="95" text-anchor="middle" font-family="Inter, Segoe UI, sans-serif" font-size="58" font-weight="700" fill="url(#textGrad)" letter-spacing="2">Abeer Alghamdi</text>
-  <text x="600" y="140" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="15" fill="#B8B8B8" letter-spacing="3">COMPUTER ENGINEER · AI &amp; COMPUTER VISION · WEB DEVELOPER</text>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&pause=1200&color=E8DFC8&center=true&vCenter=true&width=800&height=80&lines=Abeer+Alghamdi" alt="Abeer Alghamdi" />
 
 <br/>
 
-<!-- ─────── TYPING ─────── -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=E8DFC8&center=true&vCenter=true&width=750&height=40&lines=%3E+Computer+Engineer+%F0%9F%92%BB;%3E+AI+%26+Computer+Vision+Engineer+%F0%9F%A4%96;%3E+Web+%26+Full-Stack+Developer+%F0%9F%8C%90;%3E+Turning+AI+ideas+into+real+impact+%E2%9C%A8" alt="Typing"/>
+### COMPUTER ENGINEER · AI & COMPUTER VISION · ROBOTICS · EMBEDDED SYSTEMS · FULL-STACK
+
+<br/>
+
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+
+<a href="https://eng-abeer18.github.io/My_Website/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=E8DFC8&center=true&vCenter=true&width=800&height=50&lines=%3E+Computer+Engineer+%F0%9F%92%BB;%3E+AI+%26+Computer+Vision+%F0%9F%A4%96;%3E+Robotics+%26+Embedded+Systems+%E2%9A%99%EF%B8%8F;%3E+Full-Stack+Developer+%F0%9F%8C%90;%3E+Turning+AI+ideas+into+real+impact+%E2%9C%A8" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<!-- ═══════════════ FOCUS BADGES ═══════════════ -->
+
+![Focus](https://img.shields.io/badge/●_Computer_Engineer-0A1628?style=for-the-badge&labelColor=0A1628&color=E8DFC8)
+![Focus](https://img.shields.io/badge/●_AI_%26_Computer_Vision-0A1628?style=for-the-badge&labelColor=0A1628&color=E8DFC8)
+![Focus](https://img.shields.io/badge/●_Robotics_%26_Embedded-0A1628?style=for-the-badge&labelColor=0A1628&color=E8DFC8)
+![Focus](https://img.shields.io/badge/●_Full--Stack-0A1628?style=for-the-badge&labelColor=0A1628&color=E8DFC8)
 
 </div>
 
 ---
+
+<br/>
+
+<!-- ═══════════════ HOW I CAN HELP YOU ═══════════════ -->
 
 <div align="center">
 
@@ -74,6 +77,10 @@
 
 ---
 
+<br/>
+
+<!-- ═══════════════ KEY ACHIEVEMENTS ═══════════════ -->
+
 <div align="center">
 
 ## ◆ &nbsp; Key Achievements &nbsp; ◆
@@ -92,6 +99,11 @@
 <sub>University Graduation<br/>Projects Competition</sub>
 </td>
 <td width="25%" align="center">
+<h4>🎓</h4>
+<b>First-Class Honors</b><br/>
+<sub>GPA 3.85/4.0 — BSc<br/>Computer Engineering</sub>
+</td>
+<td width="25%" align="center">
 <h4>👥</h4>
 <b>300+ Members</b><br/>
 <sub>Led across 4 technical<br/>tracks at Taif University</sub>
@@ -101,18 +113,8 @@
 <b>~70 Projects</b><br/>
 <sub>Technical projects supervised<br/>across 4 tracks</sub>
 </td>
-<td width="25%" align="center">
-<h4>🎓</h4>
-<b>First-Class Honors</b><br/>
-<sub>GPA 3.85/4.0 — Computer<br/>Engineering</sub>
-</td>
 </tr>
 <tr>
-<td width="25%" align="center">
-<h4>🔐</h4>
-<b>InfoSec Program</b><br/>
-<sub>Intensive training in<br/>information security</sub>
-</td>
 <td width="25%" align="center">
 <h4>⏱️</h4>
 <b>250+ Hours</b><br/>
@@ -120,13 +122,18 @@
 </td>
 <td width="25%" align="center">
 <h4>🎯</h4>
-<b>2 Leadership Roles</b><br/>
-<sub>Community Leader + Deputy<br/>Head of Female Section</sub>
+<b>Deputy Head</b><br/>
+<sub>Female Section — 100+<br/>members at the Club</sub>
 </td>
 <td width="25%" align="center">
 <h4>👩‍💼</h4>
 <b>Team Lead</b><br/>
 <sub>Led a 3-member<br/>engineering team</sub>
+</td>
+<td width="25%" align="center">
+<h4>🏆</h4>
+<b>4 Tracks Led</b><br/>
+<sub>AI & DS · Software Dev<br/>Game Dev · Arduino</sub>
 </td>
 </tr>
 </table>
@@ -134,6 +141,10 @@
 </div>
 
 ---
+
+<br/>
+
+<!-- ═══════════════ TECHNICAL SKILLS ═══════════════ -->
 
 <div align="center">
 
@@ -144,39 +155,47 @@
 <b>🤖 &nbsp; AI · ML · Computer Vision</b><br/>
 
 ![Python](https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=E8DFC8)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-0A1628?style=flat-square&logo=yolo&logoColor=E8DFC8)
+![YOLO](https://img.shields.io/badge/YOLO-0A1628?style=flat-square&logo=yolo&logoColor=E8DFC8)
 ![Roboflow](https://img.shields.io/badge/Roboflow-0A1628?style=flat-square&logo=roboflow&logoColor=E8DFC8)
-![OpenCV](https://img.shields.io/badge/OpenCV-0A1628?style=flat-square&logo=opencv&logoColor=E8DFC8)
-![ROS](https://img.shields.io/badge/ROS-0A1628?style=flat-square&logo=ros&logoColor=E8DFC8)
-![MATLAB](https://img.shields.io/badge/MATLAB-0A1628?style=flat-square&logo=mathworks&logoColor=E8DFC8)
 ![V-SLAM](https://img.shields.io/badge/V--SLAM-0A1628?style=flat-square&logo=opencv&logoColor=E8DFC8)
 
 <br/>
 
-<b>🌐 &nbsp; Web · Full-Stack Development</b><br/>
+<b>🌐 &nbsp; Web · Software</b><br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-0A1628?style=flat-square&logo=nextdotjs&logoColor=E8DFC8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A1628?style=flat-square&logo=typescript&logoColor=E8DFC8)
 ![Supabase](https://img.shields.io/badge/Supabase-0A1628?style=flat-square&logo=supabase&logoColor=E8DFC8)
-![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=flat-square&logo=nodedotjs&logoColor=E8DFC8)
-![REST API](https://img.shields.io/badge/REST_APIs-0A1628?style=flat-square&logo=fastapi&logoColor=E8DFC8)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-0A1628?style=flat-square&logo=figma&logoColor=E8DFC8)
 
 <br/>
 
-<b>⚙️ &nbsp; Embedded · Robotics · Systems</b><br/>
+<b>⚙️ &nbsp; Embedded · Robotics</b><br/>
 
 ![C++](https://img.shields.io/badge/C++-0A1628?style=flat-square&logo=cplusplus&logoColor=E8DFC8)
+![ROS](https://img.shields.io/badge/ROS-0A1628?style=flat-square&logo=ros&logoColor=E8DFC8)
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-0A1628?style=flat-square&logo=nvidia&logoColor=E8DFC8)
 ![Arduino](https://img.shields.io/badge/Arduino-0A1628?style=flat-square&logo=arduino&logoColor=E8DFC8)
 ![ESP32](https://img.shields.io/badge/ESP32-0A1628?style=flat-square&logo=espressif&logoColor=E8DFC8)
 ![MQTT](https://img.shields.io/badge/MQTT-0A1628?style=flat-square&logo=mqtt&logoColor=E8DFC8)
+
+<br/>
+
+<b>🛠️ &nbsp; Systems & Tools</b><br/>
+
 ![Linux](https://img.shields.io/badge/Linux-0A1628?style=flat-square&logo=linux&logoColor=E8DFC8)
 ![Git](https://img.shields.io/badge/Git-0A1628?style=flat-square&logo=git&logoColor=E8DFC8)
+![VS Code](https://img.shields.io/badge/VS_Code-0A1628?style=flat-square&logo=visualstudiocode&logoColor=E8DFC8)
+![MATLAB](https://img.shields.io/badge/MATLAB-0A1628?style=flat-square&logo=mathworks&logoColor=E8DFC8)
+![Google Colab](https://img.shields.io/badge/Google_Colab-0A1628?style=flat-square&logo=googlecolab&logoColor=E8DFC8)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0A1628?style=flat-square&logo=cisco&logoColor=E8DFC8)
 
 </div>
 
 ---
+
+<br/>
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 
 <div align="center">
 
@@ -192,11 +211,11 @@
 <tr>
 <td width="72%" valign="top">
 
-<h4>🥇 &nbsp; Bio-Inspired Cooperative UUVs for Seafloor Monitoring</h4>
+<h4>🥇 &nbsp; Bio-Inspired Cooperative UUVs</h4>
 
-<sub><b>1st Place — University Graduation Projects Competition</b></sub>
+<sub><b>Graduation Project — 1st Place, University Competition</b></sub>
 
-<sub>Trained and integrated a YOLOv8 object-detection model with a real-time monocular V-SLAM pipeline into a unified perception dashboard. Achieved strong detection accuracy for live underwater 3D mapping — validated through real-world pool testing against manually labeled ground truth.</sub>
+<sub>Trained and integrated a <b>YOLOv8</b> object-detection model with a real-time monocular <b>V-SLAM</b> pipeline into a unified perception dashboard — achieving strong detection accuracy for live underwater 3D mapping. Validated via real-world pool testing against manually labeled ground truth.</sub>
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-1B2A47?style=flat-square&labelColor=0A1628&color=E8DFC8)
 ![V-SLAM](https://img.shields.io/badge/V--SLAM-1B2A47?style=flat-square&labelColor=0A1628&color=E8DFC8)
@@ -222,7 +241,7 @@
 
 <sub><b>Team Lead · Rimal X — Technical Innovation Department</b></sub>
 
-<sub>Built a full-stack RAG chatbot (Next.js · Supabase · Groq/Llama) that reduces hallucinations via knowledge-base integration. Led post-audit security remediation: implemented role-based Row-Level Security and endpoint rate limiting. Designed a lead-qualification flow that identifies visitor intent and recommends tailored service packages.</sub>
+<sub>Built a full-stack <b>RAG chatbot</b> (Next.js · Supabase · Groq/Llama) reducing hallucinations via knowledge-base integration. Led post-audit security remediation with <b>role-based Row-Level Security</b> and endpoint rate limiting. Designed a lead-qualification flow identifying visitor intent.</sub>
 
 ![Next.js](https://img.shields.io/badge/Next.js-1B2A47?style=flat-square&labelColor=0A1628&color=E8DFC8)
 ![Supabase](https://img.shields.io/badge/Supabase-1B2A47?style=flat-square&labelColor=0A1628&color=E8DFC8)
@@ -248,7 +267,7 @@
 
 <sub><b>Web / Platform Developer · Part-time Remote</b></sub>
 
-<sub>Redesigned UI/UX of homepage and instructor/student portals using Next.js, improving navigation and information architecture across the platform. Provided technical and operational support for the platform's course operations.</sub>
+<sub>Redesigned UI/UX of homepage and instructor/student portals using <b>Next.js</b> — improving navigation and information architecture across the platform. Provided technical and operational support for course operations.</sub>
 
 ![Next.js](https://img.shields.io/badge/Next.js-1B2A47?style=flat-square&labelColor=0A1628&color=E8DFC8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1B2A47?style=flat-square&labelColor=0A1628&color=E8DFC8)
@@ -269,6 +288,10 @@
 
 ---
 
+<br/>
+
+<!-- ═══════════════ EXPERIENCE SNAPSHOT ═══════════════ -->
+
 <div align="center">
 
 ## ◆ &nbsp; Experience Snapshot &nbsp; ◆
@@ -283,12 +306,17 @@
 |:---:|:---|:---|:---|:---|
 | 🤖 | **AI Engineer** *(Co-op)* | Rimal X | RAG · LLM · Security | Reduced hallucinations · Secured endpoints |
 | 🌐 | **Web Developer** *(Remote)* | Neon EdTech | Next.js · UI/UX | Redesigned navigation & architecture |
+| ⚙️ | **Technical Trainee** | 7-Week Program | Networks · Embedded · CV | ESP32 · MQTT · Cisco |
 | 👥 | **Community Leader** | Taif University | 4 Tracks · 300+ Members | **~70 projects** delivered |
-| 🎓 | **Technical Trainee** | 7-Week Program | Networks · Embedded · CV | ESP32 · MQTT · Cisco |
+| 🎯 | **Deputy Head** | Female Section | 100+ members | Departmental management & events |
 
 </div>
 
 ---
+
+<br/>
+
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
 <div align="center">
 
@@ -308,6 +336,10 @@
 
 ---
 
+<br/>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+
 <div align="center">
 
 <br/>
@@ -316,6 +348,10 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1628&height=100&section=footer"/>
+<sub>Open to opportunities in <b>AI</b> · <b>Computer Vision</b> · <b>Robotics</b> · <b>Embedded Systems</b> · <b>Full-Stack</b></sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1628&height=120&section=footer"/>
 
 </div>
